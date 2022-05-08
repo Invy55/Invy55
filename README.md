@@ -1,5 +1,5 @@
 ```python
-from pyrogram import Client as client
+from pyrogram import Client
 import asyncio
 from visitor import uid, name
 from me import apiid, apihash
