@@ -10,7 +10,7 @@ message = f"""
 👋🏻 Hi <i>{name}</>, I’m Marco (AKA @Invy55),
 I’m a young boy <b>learning to code</>.
 You can reach me at https://t.me/proporre or
-just chec out <a href= "https://invy55.me">my website</>.
+just check out <a href= "https://invy55.me">my website</>.
 """
 
 async def main():
